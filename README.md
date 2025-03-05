@@ -43,12 +43,14 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion (**ICLR 2025 Spotlight**) [[paper](https://monst3r-project.github.io/files/monst3r_paper.pdf)] [[code](https://github.com/Junyi42/monst3r)] [[project page](https://monst3r-project.github.io/)]
 - No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images (**ICLR 2025 Oral**) [[paper](https://openreview.net/pdf/0b8fd1ea63f2337885433128fc13b8c47e072e80.pdf)] [[code](https://github.com/cvg/NoPoSplat)] [[project page](https://noposplat.github.io/)]
 
+- Avat3r: Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars (**arXiv 2025**) [[paper](https://arxiv.org/abs/2502.20220)] [[project page](https://tobias-kirschstein.github.io/avat3r/)]
 - FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views (**arXiv 2025**) [[paper](https://arxiv.org/abs/2502.12138)] [[code](https://github.com/ant-research/FLARE?tab=readme-ov-file)] [[project page](https://zhanghe3z.github.io/FLARE/)]
 <br>
   
 ### 2024
 
 - Large Spatial Model: End-to-end Unposed Images to Semantic 3D (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2410.18956)] [[code](https://github.com/NVlabs/LSM)] [[project page](https://largespatialmodel.github.io/)]
+- From an Image to a Scene: Learning to Imagine the World from a Million 360 Videos (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2412.07770)] [[code](https://github.com/MattWallingford/360-1M)] [[project page](https://mattwallingford.github.io/ODIN/)]
 
 - PreF3R: Pose-Free Feed-Forward 3D Gaussian Splatting from Variable-length Image Sequence (**arXiv 2024**) [[paper](https://arxiv.org/abs/2411.16877)] [[project page](https://computationalrobotics.seas.harvard.edu/PreF3R/)]
 - Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.08613)]
