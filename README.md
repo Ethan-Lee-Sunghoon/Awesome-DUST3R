@@ -35,6 +35,7 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.09401)] [[code](https://github.com/PKU-VCL-3DV/SLAM3R)]
 - Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.08376)] [[code](https://github.com/ffrivera0/reloc3r)]
 - MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.12392)] [[code](https://github.com/rmurai0610/MASt3R-SLAM)] [[project page](https://edexheim.github.io/mast3r-slam/)]
+- MEt3R: Measuring Multi-View Consistency in Generated Images (**CVPR 2025**) [[paper](https://arxiv.org/abs/2501.06336)] [[code](https://github.com/mohammadasim98/MEt3R)] [[project page](https://geometric-rl.mpi-inf.mpg.de/met3r/)]
 
 - GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting (**ICLR 2025**) [[paper](https://arxiv.org/abs/2408.11085)] [[code](https://github.com/XRIM-Lab/GS-CPR)] [[project page](https://xrim-lab.github.io/GS-CPR/)]
 - Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model (**ICLR 2025**) [[paper](https://arxiv.org/abs/2502.16779)] [[code](https://github.com/justacar/Plane-DUSt3R?tab=readme-ov-file)]
@@ -49,6 +50,8 @@ A curated list of awesome DUST3R/MAST3R related papers.
 
 - Large Spatial Model: End-to-end Unposed Images to Semantic 3D (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2410.18956)] [[code](https://github.com/NVlabs/LSM)] [[project page](https://largespatialmodel.github.io/)]
 
+- PreF3R: Pose-Free Feed-Forward 3D Gaussian Splatting from Variable-length Image Sequence (**arXiv 2024**) [[paper](https://arxiv.org/abs/2411.16877)] [[project page](https://computationalrobotics.seas.harvard.edu/PreF3R/)]
+- Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.08613)]
 - InstantSplat: Sparse-view SfM-free Gaussian Splatting in Seconds (**arXiv 2024**) [[paper](https://arxiv.org/abs/2403.20309)] [[code](https://github.com/NVlabs/InstantSplat)] [[project page](https://instantsplat.github.io/)]
 - Improving Geometry in Sparse-View 3DGS via Reprojection-based DoF Separation (**arXiv 2024**) [[paper](https://arxiv.org/abs/2412.14568)]
 - LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors (**arXiv 2024**) [[paper](https://arxiv.org/abs/2412.09597)] [[code](https://github.com/AbrahamYabo/LiftImage3D?tab=readme-ov-file)] [[project page](https://liftimage3d.github.io/)]
