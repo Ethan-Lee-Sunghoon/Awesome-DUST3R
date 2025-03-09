@@ -28,6 +28,7 @@ A curated list of awesome DUST3R/MAST3R related papers.
 
 ### 2025
 
+- MUSt3R: Multi-view Network for Stereo 3D Reconstruction (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.01661)] [[code](https://github.com/naver/must3r)]
 - Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass (**CVPR 2025**) [[paper](https://arxiv.org/abs/2501.13928)] [[code](https://github.com/facebookresearch/fast3r)] [[project page](https://fast3r-3d.github.io/)]
 - Continuous 3D Perception Model with Persistent State (**CVPR 2025**) [[paper](https://arxiv.org/abs/2501.12387)] [[code](https://github.com/CUT3R/CUT3R)] [[project page](https://cut3r.github.io/)]
 - MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.06974)] [[code](https://github.com/facebookresearch/mvdust3r)] [[project page](https://mv-dust3rp.github.io/)]
