@@ -28,6 +28,7 @@ A curated list of awesome DUST3R/MAST3R related papers.
 
 ### 2025
 
+- MVSAnywhere: Zero-Shot Multi-View Stereo (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2503.22430)] [[project page](https://nianticlabs.github.io/mvsanywhere/)]
 - Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.24382)] [[code](https://github.com/chobao/Free360)] [[project page](https://zju3dv.github.io/free360/)]
 - DUNE: Distilling a Universal Encoder from Heterogeneous 2D and 3D Teachers (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.14405)] [[code](https://github.com/naver/dune)] [[project page](https://europe.naverlabs.com/research/publications/dune/)]
 - Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.17316)] [[project page](https://europe.naverlabs.com/research/publications/pow3r-empowering-unconstrained-3d-reconstruction-with-camera-and-scene-priors/)]
