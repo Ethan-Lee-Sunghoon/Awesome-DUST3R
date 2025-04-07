@@ -28,6 +28,10 @@ A curated list of awesome DUST3R/MAST3R related papers.
 
 ### 2025
 
+- Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.24382)] [[code](https://github.com/chobao/Free360)] [[project page](https://zju3dv.github.io/free360/)]
+- DUNE: Distilling a Universal Encoder from Heterogeneous 2D and 3D Teachers (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.14405)] [[code](https://github.com/naver/dune)] [[project page](https://europe.naverlabs.com/research/publications/dune/)]
+- Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.17316)] [[project page](https://europe.naverlabs.com/research/publications/pow3r-empowering-unconstrained-3d-reconstruction-with-camera-and-scene-priors/)]
+- CoMatcher: Multi-View Collaborative Feature Matching (**CVPR 2025**) [[paper](https://arxiv.org/abs/2504.01872)]
 - MUSt3R: Multi-view Network for Stereo 3D Reconstruction (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.01661)] [[code](https://github.com/naver/must3r)]
 - Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass (**CVPR 2025**) [[paper](https://arxiv.org/abs/2501.13928)] [[code](https://github.com/facebookresearch/fast3r)] [[project page](https://fast3r-3d.github.io/)]
 - Continuous 3D Perception Model with Persistent State (**CVPR 2025**) [[paper](https://arxiv.org/abs/2501.12387)] [[code](https://github.com/CUT3R/CUT3R)] [[project page](https://cut3r.github.io/)]
@@ -37,6 +41,8 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.08376)] [[code](https://github.com/ffrivera0/reloc3r)]
 - MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.12392)] [[code](https://github.com/rmurai0610/MASt3R-SLAM)] [[project page](https://edexheim.github.io/mast3r-slam/)]
 - MEt3R: Measuring Multi-View Consistency in Generated Images (**CVPR 2025**) [[paper](https://arxiv.org/abs/2501.06336)] [[code](https://github.com/mohammadasim98/MEt3R)] [[project page](https://geometric-rl.mpi-inf.mpg.de/met3r/)]
+- Taming Video Diffusion Prior with Scene-Grounding Guidance for 3D Gaussian Splatting from Sparse Inputs (**CVPR 2025 Highlight**) [[paper](https://arxiv.org/abs/2503.05082)] [[code](https://github.com/zhongyingji/guidedvd-3dgs)] [[project page](https://zhongyingji.github.io/guidevd-3dgs/)]
+- VGGT: Visual Geometry Grounded Transformer (**CVPR 2025 Oral**) [[paper](https://arxiv.org/abs/2503.11651)] [[code](https://github.com/facebookresearch/vggt)] [[project page](https://vgg-t.github.io/)]
 
 - GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting (**ICLR 2025**) [[paper](https://arxiv.org/abs/2408.11085)] [[code](https://github.com/XRIM-Lab/GS-CPR)] [[project page](https://xrim-lab.github.io/GS-CPR/)]
 - Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model (**ICLR 2025**) [[paper](https://arxiv.org/abs/2502.16779)] [[code](https://github.com/justacar/Plane-DUSt3R?tab=readme-ov-file)]
@@ -44,6 +50,10 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion (**ICLR 2025 Spotlight**) [[paper](https://monst3r-project.github.io/files/monst3r_paper.pdf)] [[code](https://github.com/Junyi42/monst3r)] [[project page](https://monst3r-project.github.io/)]
 - No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images (**ICLR 2025 Oral**) [[paper](https://openreview.net/pdf/0b8fd1ea63f2337885433128fc13b8c47e072e80.pdf)] [[code](https://github.com/cvg/NoPoSplat)] [[project page](https://noposplat.github.io/)]
 
+- GeometryCrafter: Consistent Geometry Estimation for Open-world Videos with Diffusion Priors (**arXiv 2025**) [[paper](https://arxiv.org/abs/2504.01016)] [[code](https://github.com/TencentARC/GeometryCrafter)] [[project page](https://geometrycrafter.github.io/)]
+- Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.17358)] [[project page](https://jerredchen.github.io/image-as-imu/)]
+- Alligat0R: Pre-Training Through Co-Visibility Segmentation for Relative Camera Pose Regression (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.07561)]
+- Easi3R: Estimating Disentangled Motion from DUSt3R Without Training (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.24391)] [[code](https://github.com/Inception3D/Easi3R)] [[project page](https://easi3r.github.io/)]
 - Avat3r: Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars (**arXiv 2025**) [[paper](https://arxiv.org/abs/2502.20220)] [[project page](https://tobias-kirschstein.github.io/avat3r/)]
 - FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views (**arXiv 2025**) [[paper](https://arxiv.org/abs/2502.12138)] [[code](https://github.com/ant-research/FLARE?tab=readme-ov-file)] [[project page](https://zhanghe3z.github.io/FLARE/)]
 <br>
