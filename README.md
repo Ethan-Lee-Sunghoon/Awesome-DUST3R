@@ -44,12 +44,14 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - MEt3R: Measuring Multi-View Consistency in Generated Images (**CVPR 2025**) [[paper](https://arxiv.org/abs/2501.06336)] [[code](https://github.com/mohammadasim98/MEt3R)] [[project page](https://geometric-rl.mpi-inf.mpg.de/met3r/)]
 - Taming Video Diffusion Prior with Scene-Grounding Guidance for 3D Gaussian Splatting from Sparse Inputs (**CVPR 2025 Highlight**) [[paper](https://arxiv.org/abs/2503.05082)] [[code](https://github.com/zhongyingji/guidedvd-3dgs)] [[project page](https://zhongyingji.github.io/guidevd-3dgs/)]
 - VGGT: Visual Geometry Grounded Transformer (**CVPR 2025 Oral**) [[paper](https://arxiv.org/abs/2503.11651)] [[code](https://github.com/facebookresearch/vggt)] [[project page](https://vgg-t.github.io/)]
+<br>
 
 - GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting (**ICLR 2025**) [[paper](https://arxiv.org/abs/2408.11085)] [[code](https://github.com/XRIM-Lab/GS-CPR)] [[project page](https://xrim-lab.github.io/GS-CPR/)]
 - Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model (**ICLR 2025**) [[paper](https://arxiv.org/abs/2502.16779)] [[code](https://github.com/justacar/Plane-DUSt3R?tab=readme-ov-file)]
 - LoRA3D: Low-Rank Self-Calibration of 3D Geometric Foundation Models (**ICLR 2025 Spotlight**) [[paper](https://arxiv.org/abs/2412.07746)]
 - MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion (**ICLR 2025 Spotlight**) [[paper](https://monst3r-project.github.io/files/monst3r_paper.pdf)] [[code](https://github.com/Junyi42/monst3r)] [[project page](https://monst3r-project.github.io/)]
 - No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images (**ICLR 2025 Oral**) [[paper](https://openreview.net/pdf/0b8fd1ea63f2337885433128fc13b8c47e072e80.pdf)] [[code](https://github.com/cvg/NoPoSplat)] [[project page](https://noposplat.github.io/)]
+<br>
 
 - GeometryCrafter: Consistent Geometry Estimation for Open-world Videos with Diffusion Priors (**arXiv 2025**) [[paper](https://arxiv.org/abs/2504.01016)] [[code](https://github.com/TencentARC/GeometryCrafter)] [[project page](https://geometrycrafter.github.io/)]
 - Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.17358)] [[project page](https://jerredchen.github.io/image-as-imu/)]
@@ -63,6 +65,7 @@ A curated list of awesome DUST3R/MAST3R related papers.
 
 - Large Spatial Model: End-to-end Unposed Images to Semantic 3D (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2410.18956)] [[code](https://github.com/NVlabs/LSM)] [[project page](https://largespatialmodel.github.io/)]
 - From an Image to a Scene: Learning to Imagine the World from a Million 360 Videos (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2412.07770)] [[code](https://github.com/MattWallingford/360-1M)] [[project page](https://mattwallingford.github.io/ODIN/)]
+<br>
 
 - PreF3R: Pose-Free Feed-Forward 3D Gaussian Splatting from Variable-length Image Sequence (**arXiv 2024**) [[paper](https://arxiv.org/abs/2411.16877)] [[project page](https://computationalrobotics.seas.harvard.edu/PreF3R/)]
 - Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.08613)]
