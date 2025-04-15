@@ -27,7 +27,7 @@ A curated list of awesome DUST3R/MAST3R related papers.
 ## Papers
 
 ### 2025
-
+- Reconstructing People, Places, and Cameras (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.17806)] [[code](https://github.com/hongsukchoi/HSfM_RELEASE)] [[project page](https://muelea.github.io/hsfm/)] 
 - MVSAnywhere: Zero-Shot Multi-View Stereo (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2503.22430)] [[project page](https://nianticlabs.github.io/mvsanywhere/)]
 - Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.24382)] [[code](https://github.com/chobao/Free360)] [[project page](https://zju3dv.github.io/free360/)]
 - DUNE: Distilling a Universal Encoder from Heterogeneous 2D and 3D Teachers (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.14405)] [[code](https://github.com/naver/dune)] [[project page](https://europe.naverlabs.com/research/publications/dune/)]
@@ -35,7 +35,6 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - CoMatcher: Multi-View Collaborative Feature Matching (**CVPR 2025**) [[paper](https://arxiv.org/abs/2504.01872)]
 - MUSt3R: Multi-view Network for Stereo 3D Reconstruction (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.01661)] [[code](https://github.com/naver/must3r)]
 - Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass (**CVPR 2025**) [[paper](https://arxiv.org/abs/2501.13928)] [[code](https://github.com/facebookresearch/fast3r)] [[project page](https://fast3r-3d.github.io/)]
-- Continuous 3D Perception Model with Persistent State (**CVPR 2025**) [[paper](https://arxiv.org/abs/2501.12387)] [[code](https://github.com/CUT3R/CUT3R)] [[project page](https://cut3r.github.io/)]
 - MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.06974)] [[code](https://github.com/facebookresearch/mvdust3r)] [[project page](https://mv-dust3rp.github.io/)]
 - Align3R: Aligned Monocular Depth Estimation for Dynamic Videos (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.03079)] [[code](https://github.com/jiah-cloud/Align3R)] [[project page](https://igl-hkust.github.io/Align3R.github.io/)]
 - SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.09401)] [[code](https://github.com/PKU-VCL-3DV/SLAM3R)]
@@ -44,6 +43,8 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - MEt3R: Measuring Multi-View Consistency in Generated Images (**CVPR 2025**) [[paper](https://arxiv.org/abs/2501.06336)] [[code](https://github.com/mohammadasim98/MEt3R)] [[project page](https://geometric-rl.mpi-inf.mpg.de/met3r/)]
 - Taming Video Diffusion Prior with Scene-Grounding Guidance for 3D Gaussian Splatting from Sparse Inputs (**CVPR 2025 Highlight**) [[paper](https://arxiv.org/abs/2503.05082)] [[code](https://github.com/zhongyingji/guidedvd-3dgs)] [[project page](https://zhongyingji.github.io/guidevd-3dgs/)]
 - VGGT: Visual Geometry Grounded Transformer (**CVPR 2025 Oral**) [[paper](https://arxiv.org/abs/2503.11651)] [[code](https://github.com/facebookresearch/vggt)] [[project page](https://vgg-t.github.io/)]
+- MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos (**CVPR 2025 Oral**) [[paper](https://arxiv.org/abs/2412.04463)] [[code](https://github.com/mega-sam/mega-sam)] [[project page](https://mega-sam.github.io/)]
+- Continuous 3D Perception Model with Persistent State (CUT3R) (**CVPR 2025 Oral**) [[paper](https://arxiv.org/abs/2501.12387)] [[code](https://github.com/CUT3R/CUT3R)] [[project page](https://cut3r.github.io/)]
 <br>
 
 - GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting (**ICLR 2025**) [[paper](https://arxiv.org/abs/2408.11085)] [[code](https://github.com/XRIM-Lab/GS-CPR)] [[project page](https://xrim-lab.github.io/GS-CPR/)]
