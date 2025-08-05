@@ -32,11 +32,13 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - Avat3r: Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars (**ICCV 2025**)
  [[paper](https://arxiv.org/abs/2502.20220)] [[project page](https://tobias-kirschstein.github.io/avat3r/)]
 - PanoSplatt3R: Leveraging Perspective Pretraining for Generalized Unposed Wide-Baseline Panorama Reconstruction (**ICCV 2025**) [[paper](https://arxiv.org/abs/2507.21960)] [[code](https://github.com/zhichu99/PanoSplatt3R)] [[project page](https://npucvr.github.io/PanoSplatt3R/)]
-- LONG3R: Long Sequence Streaming 3D Reconstruction (**ICCV 2025**) [[paper](https://www.arxiv.org/abs/2507.18255)] [[code](https://github.com/zgchen33/LONG3R/)] [[project page](https://zgchen33.github.io/LONG3R/)] 
+- LONG3R: Long Sequence Streaming 3D Reconstruction (**ICCV 2025**) [[paper](https://www.arxiv.org/abs/2507.18255)] [[code](https://github.com/zgchen33/LONG3R/)] [[project page](https://zgchen33.github.io/LONG3R/)]
+- Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image (**ICCV 2025 Oral**) [[paper](https://arxiv.org/abs/2503.17358)] [[project page](https://jerredchen.github.io/image-as-imu/)]
 <br>
 
 
 - SAB3R: Semantic-Augmented Backbone in 3D Reconstruction (**CVPR 2025 Workshop**)[[paper](https://tianx-ia.github.io/Semantic_Augmented_3D_Foundation_Models.pdf)] [[project page](https://uva-computer-vision-lab.github.io/sab3r/)]
+- FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views (**CVPR 2025**) [[paper](https://arxiv.org/abs/2502.12138)] [[code](https://github.com/ant-research/FLARE?tab=readme-ov-file)] [[project page](https://zhanghe3z.github.io/FLARE/)]
 - Reconstructing People, Places, and Cameras (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.17806)] [[code](https://github.com/hongsukchoi/HSfM_RELEASE)] [[project page](https://muelea.github.io/hsfm/)] 
 - MVSAnywhere: Zero-Shot Multi-View Stereo (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2503.22430)] [[project page](https://nianticlabs.github.io/mvsanywhere/)]
 - Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.24382)] [[code](https://github.com/chobao/Free360)] [[project page](https://zju3dv.github.io/free360/)]
@@ -64,9 +66,7 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images (**ICLR 2025 Oral**) [[paper](https://openreview.net/pdf/0b8fd1ea63f2337885433128fc13b8c47e072e80.pdf)] [[code](https://github.com/cvg/NoPoSplat)] [[project page](https://noposplat.github.io/)]
 <br>
 
-- Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.17358)] [[project page](https://jerredchen.github.io/image-as-imu/)]
 - Alligat0R: Pre-Training Through Co-Visibility Segmentation for Relative Camera Pose Regression (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.07561)]
-- FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views (**arXiv 2025**) [[paper](https://arxiv.org/abs/2502.12138)] [[code](https://github.com/ant-research/FLARE?tab=readme-ov-file)] [[project page](https://zhanghe3z.github.io/FLARE/)]
 <br>
   
 ### 2024
