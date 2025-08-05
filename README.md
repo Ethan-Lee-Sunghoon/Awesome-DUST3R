@@ -26,6 +26,7 @@ A curated list of awesome DUST3R/MAST3R related papers.
 
 ## Papers
 ### 2025
+- GeometryCrafter: Consistent Geometry Estimation for Open-world Videos with Diffusion Priors (**ICCV 2025**) [[paper](https://arxiv.org/abs/2504.01016)] [[code](https://github.com/TencentARC/GeometryCrafter)] [[project page](https://geometrycrafter.github.io/)]
 - PanSt3R: Multi-view Consistent Panoptic Segmentation (**ICCV 2025**) [[paper](https://arxiv.org/abs/2506.21348)]
 - Easi3R: Estimating Disentangled Motion from DUSt3R Without Training (**ICCV 2025**) [[paper](https://arxiv.org/abs/2503.24391)] [[code](https://github.com/Inception3D/Easi3R)] [[project page](https://easi3r.github.io/)]
 - Avat3r: Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars (**ICCV 2025**)
@@ -63,7 +64,6 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images (**ICLR 2025 Oral**) [[paper](https://openreview.net/pdf/0b8fd1ea63f2337885433128fc13b8c47e072e80.pdf)] [[code](https://github.com/cvg/NoPoSplat)] [[project page](https://noposplat.github.io/)]
 <br>
 
-- GeometryCrafter: Consistent Geometry Estimation for Open-world Videos with Diffusion Priors (**arXiv 2025**) [[paper](https://arxiv.org/abs/2504.01016)] [[code](https://github.com/TencentARC/GeometryCrafter)] [[project page](https://geometrycrafter.github.io/)]
 - Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.17358)] [[project page](https://jerredchen.github.io/image-as-imu/)]
 - Alligat0R: Pre-Training Through Co-Visibility Segmentation for Relative Camera Pose Regression (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.07561)]
 - FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views (**arXiv 2025**) [[paper](https://arxiv.org/abs/2502.12138)] [[code](https://github.com/ant-research/FLARE?tab=readme-ov-file)] [[project page](https://zhanghe3z.github.io/FLARE/)]
