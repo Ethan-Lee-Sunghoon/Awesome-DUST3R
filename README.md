@@ -26,6 +26,9 @@ A curated list of awesome DUST3R/MAST3R related papers.
 
 ## Papers
 ### 2025
+- GFlow: Recovering 4D World from Monocular Video (**AAAI 2025**) [[paper](https://arxiv.org/abs/2405.18426)] [[code](https://github.com/littlepure2333/gflow)] [[project page](https://littlepure2333.github.io/GFlow/)]
+<br>
+
 - GeometryCrafter: Consistent Geometry Estimation for Open-world Videos with Diffusion Priors (**ICCV 2025**) [[paper](https://arxiv.org/abs/2504.01016)] [[code](https://github.com/TencentARC/GeometryCrafter)] [[project page](https://geometrycrafter.github.io/)]
 - PanSt3R: Multi-view Consistent Panoptic Segmentation (**ICCV 2025**) [[paper](https://arxiv.org/abs/2506.21348)]
 - Easi3R: Estimating Disentangled Motion from DUSt3R Without Training (**ICCV 2025**) [[paper](https://arxiv.org/abs/2503.24391)] [[code](https://github.com/Inception3D/Easi3R)] [[project page](https://easi3r.github.io/)]
