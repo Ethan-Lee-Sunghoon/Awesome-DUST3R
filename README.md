@@ -42,9 +42,9 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.12392)] [[code](https://github.com/rmurai0610/MASt3R-SLAM)] [[project page](https://edexheim.github.io/mast3r-slam/)]
 - MEt3R: Measuring Multi-View Consistency in Generated Images (**CVPR 2025**) [[paper](https://arxiv.org/abs/2501.06336)] [[code](https://github.com/mohammadasim98/MEt3R)] [[project page](https://geometric-rl.mpi-inf.mpg.de/met3r/)]
 - Taming Video Diffusion Prior with Scene-Grounding Guidance for 3D Gaussian Splatting from Sparse Inputs (**CVPR 2025 Highlight**) [[paper](https://arxiv.org/abs/2503.05082)] [[code](https://github.com/zhongyingji/guidedvd-3dgs)] [[project page](https://zhongyingji.github.io/guidevd-3dgs/)]
-- VGGT: Visual Geometry Grounded Transformer (**CVPR 2025 Oral**) [[paper](https://arxiv.org/abs/2503.11651)] [[code](https://github.com/facebookresearch/vggt)] [[project page](https://vgg-t.github.io/)]
 - MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos (**CVPR 2025 Oral**) [[paper](https://arxiv.org/abs/2412.04463)] [[code](https://github.com/mega-sam/mega-sam)] [[project page](https://mega-sam.github.io/)]
 - Continuous 3D Perception Model with Persistent State (CUT3R) (**CVPR 2025 Oral**) [[paper](https://arxiv.org/abs/2501.12387)] [[code](https://github.com/CUT3R/CUT3R)] [[project page](https://cut3r.github.io/)]
+- VGGT: Visual Geometry Grounded Transformer (**CVPR 2025 Best Paper Award**) [[paper](https://arxiv.org/abs/2503.11651)] [[code](https://github.com/facebookresearch/vggt)] [[project page](https://vgg-t.github.io/)]
 <br>
 
 - GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting (**ICLR 2025**) [[paper](https://arxiv.org/abs/2408.11085)] [[code](https://github.com/XRIM-Lab/GS-CPR)] [[project page](https://xrim-lab.github.io/GS-CPR/)]
