@@ -68,6 +68,9 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images (**ICLR 2025 Oral**) [[paper](https://openreview.net/pdf/0b8fd1ea63f2337885433128fc13b8c47e072e80.pdf)] [[code](https://github.com/cvg/NoPoSplat)] [[project page](https://noposplat.github.io/)]
 <br>
 
+- 3D Reconstruction with Spatial Memory (**3DV 2025**) [[paper](https://arxiv.org/abs/2408.16061)] [[code](https://github.com/HengyiWang/spann3r)] [[project page](https://hengyiwang.github.io/projects/spanner)]
+<br>
+
 - Alligat0R: Pre-Training Through Co-Visibility Segmentation for Relative Camera Pose Regression (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.07561)]
 <br>
   
@@ -85,7 +88,6 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - Doppelgangers++: Improved Visual Disambiguation with Geometric 3D Features (**arXiv 2024**) [[paper](https://arxiv.org/abs/2412.05826)] [[code](https://github.com/doppelgangers25/doppelgangers-plusplus)] [[project page](https://doppelgangers25.github.io/doppelgangers_plusplus/)]
 - Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs (**arXiv 2024**) [[paper](https://arxiv.org/abs/2408.13912)] [[code](https://github.com/btsmart/splatt3r)] [[project page](https://splatt3r.active.vision/)]
 - Mutli-View 3D Reconstruction using Knowledge Distillation (**arXiv 2024**) [[paper](https://arxiv.org/abs/2412.02039)]
-- 3D Reconstruction with Spatial Memory (**arXiv 2024**) [[paper](https://arxiv.org/abs/2408.16061)] [[code](https://github.com/HengyiWang/spann3r)] [[project page](https://hengyiwang.github.io/projects/spanner)]
 - Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving (**arXiv 2024**) [[paper](https://arxiv.org/abs/2412.06777)] [[code](https://github.com/Barrybarry-Smith/Driv3R)]
 - VI3DRM:Towards meticulous 3D Reconstruction from Sparse Views via Photo-Realistic Novel View Synthesis (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.08207)]
 - PhotoReg: Photometrically Registering 3D Gaussian Splatting Models (**arXiv 2024**) [[paper](https://arxiv.org/abs/2410.05044)] [[code](https://github.com/ziweny11/PhotoRegCodes)] [[project page](https://ziweny11.github.io/photoreg/)]
