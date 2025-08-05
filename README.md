@@ -34,6 +34,8 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - LONG3R: Long Sequence Streaming 3D Reconstruction (**ICCV 2025**) [[paper](https://www.arxiv.org/abs/2507.18255)] [[code](https://github.com/zgchen33/LONG3R/)] [[project page](https://zgchen33.github.io/LONG3R/)] 
 <br>
 
+
+- SAB3R: Semantic-Augmented Backbone in 3D Reconstruction (**CVPR 2025 Workshop**)[[paper](https://tianx-ia.github.io/Semantic_Augmented_3D_Foundation_Models.pdf)] [[project page](https://uva-computer-vision-lab.github.io/sab3r/)]
 - Reconstructing People, Places, and Cameras (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.17806)] [[code](https://github.com/hongsukchoi/HSfM_RELEASE)] [[project page](https://muelea.github.io/hsfm/)] 
 - MVSAnywhere: Zero-Shot Multi-View Stereo (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2503.22430)] [[project page](https://nianticlabs.github.io/mvsanywhere/)]
 - Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.24382)] [[code](https://github.com/chobao/Free360)] [[project page](https://zju3dv.github.io/free360/)]
@@ -87,6 +89,4 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - VI3DRM:Towards meticulous 3D Reconstruction from Sparse Views via Photo-Realistic Novel View Synthesis (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.08207)]
 - Can Generative Video Models Help Pose Estimation? (**arXiv 2024**) [[paper](https://arxiv.org/abs/2412.16155)] [[project page](https://inter-pose.github.io/)]
 - PhotoReg: Photometrically Registering 3D Gaussian Splatting Models (**arXiv 2024**) [[paper](https://arxiv.org/abs/2410.05044)] [[code](https://github.com/ziweny11/PhotoRegCodes)] [[project page](https://ziweny11.github.io/photoreg/)]
-
-- SAB3R: Semantic-Augmented Backbone in 3D Reconstruction [[paper](https://tianx-ia.github.io/Semantic_Augmented_3D_Foundation_Models.pdf)] [[project page](https://uva-computer-vision-lab.github.io/sab3r/)]
 <br>
