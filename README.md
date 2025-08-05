@@ -25,13 +25,20 @@ A curated list of awesome DUST3R/MAST3R related papers.
 <br>
 
 ## Papers
-
 ### 2025
+- PanSt3R: Multi-view Consistent Panoptic Segmentation (**ICCV 2025**) [[paper](https://arxiv.org/abs/2506.21348)]
+- Easi3R: Estimating Disentangled Motion from DUSt3R Without Training (**ICCV 2025**) [[paper](https://arxiv.org/abs/2503.24391)] [[code](https://github.com/Inception3D/Easi3R)] [[project page](https://easi3r.github.io/)]
+- Avat3r: Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars (**ICCV 2025**)
+ [[paper](https://arxiv.org/abs/2502.20220)] [[project page](https://tobias-kirschstein.github.io/avat3r/)]
+- PanoSplatt3R: Leveraging Perspective Pretraining for Generalized Unposed Wide-Baseline Panorama Reconstruction (**ICCV 2025**) [[paper](https://arxiv.org/abs/2507.21960)] [[code](https://github.com/zhichu99/PanoSplatt3R)] [[project page](https://npucvr.github.io/PanoSplatt3R/)]
+- LONG3R: Long Sequence Streaming 3D Reconstruction (**ICCV 2025**) [[paper](https://www.arxiv.org/abs/2507.18255)] [[code](https://github.com/zgchen33/LONG3R/)] [[project page](https://zgchen33.github.io/LONG3R/)] 
+<br>
+
 - Reconstructing People, Places, and Cameras (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.17806)] [[code](https://github.com/hongsukchoi/HSfM_RELEASE)] [[project page](https://muelea.github.io/hsfm/)] 
 - MVSAnywhere: Zero-Shot Multi-View Stereo (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2503.22430)] [[project page](https://nianticlabs.github.io/mvsanywhere/)]
 - Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.24382)] [[code](https://github.com/chobao/Free360)] [[project page](https://zju3dv.github.io/free360/)]
 - DUNE: Distilling a Universal Encoder from Heterogeneous 2D and 3D Teachers (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.14405)] [[code](https://github.com/naver/dune)] [[project page](https://europe.naverlabs.com/research/publications/dune/)]
-- Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.17316)] [[project page](https://europe.naverlabs.com/research/publications/pow3r-empowering-unconstrained-3d-reconstruction-with-camera-and-scene-priors/)]
+- Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.17316)] [[code](https://github.com/naver/pow3r)] [[project page](https://europe.naverlabs.com/research/publications/pow3r-empowering-unconstrained-3d-reconstruction-with-camera-and-scene-priors/)]
 - CoMatcher: Multi-View Collaborative Feature Matching (**CVPR 2025**) [[paper](https://arxiv.org/abs/2504.01872)]
 - MUSt3R: Multi-view Network for Stereo 3D Reconstruction (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.01661)] [[code](https://github.com/naver/must3r)]
 - Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass (**CVPR 2025**) [[paper](https://arxiv.org/abs/2501.13928)] [[code](https://github.com/facebookresearch/fast3r)] [[project page](https://fast3r-3d.github.io/)]
@@ -57,8 +64,6 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - GeometryCrafter: Consistent Geometry Estimation for Open-world Videos with Diffusion Priors (**arXiv 2025**) [[paper](https://arxiv.org/abs/2504.01016)] [[code](https://github.com/TencentARC/GeometryCrafter)] [[project page](https://geometrycrafter.github.io/)]
 - Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.17358)] [[project page](https://jerredchen.github.io/image-as-imu/)]
 - Alligat0R: Pre-Training Through Co-Visibility Segmentation for Relative Camera Pose Regression (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.07561)]
-- Easi3R: Estimating Disentangled Motion from DUSt3R Without Training (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.24391)] [[code](https://github.com/Inception3D/Easi3R)] [[project page](https://easi3r.github.io/)]
-- Avat3r: Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars (**arXiv 2025**) [[paper](https://arxiv.org/abs/2502.20220)] [[project page](https://tobias-kirschstein.github.io/avat3r/)]
 - FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views (**arXiv 2025**) [[paper](https://arxiv.org/abs/2502.12138)] [[code](https://github.com/ant-research/FLARE?tab=readme-ov-file)] [[project page](https://zhanghe3z.github.io/FLARE/)]
 <br>
   
