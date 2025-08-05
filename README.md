@@ -26,8 +26,6 @@ A curated list of awesome DUST3R/MAST3R related papers.
 
 ## Papers
 ### 2025
-- GFlow: Recovering 4D World from Monocular Video (**AAAI 2025**) [[paper](https://arxiv.org/abs/2405.18426)] [[code](https://github.com/littlepure2333/gflow)] [[project page](https://littlepure2333.github.io/GFlow/)]
-<br>
 
 - GeometryCrafter: Consistent Geometry Estimation for Open-world Videos with Diffusion Priors (**ICCV 2025**) [[paper](https://arxiv.org/abs/2504.01016)] [[code](https://github.com/TencentARC/GeometryCrafter)] [[project page](https://geometrycrafter.github.io/)]
 - PanSt3R: Multi-view Consistent Panoptic Segmentation (**ICCV 2025**) [[paper](https://arxiv.org/abs/2506.21348)]
@@ -73,6 +71,9 @@ A curated list of awesome DUST3R/MAST3R related papers.
 <br>
 
 - 3D Reconstruction with Spatial Memory (**3DV 2025**) [[paper](https://arxiv.org/abs/2408.16061)] [[code](https://github.com/HengyiWang/spann3r)] [[project page](https://hengyiwang.github.io/projects/spanner)]
+<br>
+
+- GFlow: Recovering 4D World from Monocular Video (**AAAI 2025**) [[paper](https://arxiv.org/abs/2405.18426)] [[code](https://github.com/littlepure2333/gflow)] [[project page](https://littlepure2333.github.io/GFlow/)]
 <br>
 
 - Alligat0R: Pre-Training Through Co-Visibility Segmentation for Relative Camera Pose Regression (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.07561)]
