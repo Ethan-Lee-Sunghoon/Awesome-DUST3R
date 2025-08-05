@@ -74,7 +74,7 @@ A curated list of awesome DUST3R/MAST3R related papers.
 
 - Alligat0R: Pre-Training Through Co-Visibility Segmentation for Relative Camera Pose Regression (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.07561)]
 <br>
-  
+ 
 ### 2024
 
 - Large Spatial Model: End-to-end Unposed Images to Semantic 3D (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2410.18956)] [[code](https://github.com/NVlabs/LSM)] [[project page](https://largespatialmodel.github.io/)]
@@ -91,4 +91,5 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving (**arXiv 2024**) [[paper](https://arxiv.org/abs/2412.06777)] [[code](https://github.com/Barrybarry-Smith/Driv3R)]
 - VI3DRM:Towards meticulous 3D Reconstruction from Sparse Views via Photo-Realistic Novel View Synthesis (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.08207)]
 - PhotoReg: Photometrically Registering 3D Gaussian Splatting Models (**arXiv 2024**) [[paper](https://arxiv.org/abs/2410.05044)] [[code](https://github.com/ziweny11/PhotoRegCodes)] [[project page](https://ziweny11.github.io/photoreg/)]
+- ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis (**arXiv 2025**) [[paper](https://arxiv.org/pdf/2409.02048)] [[code](https://github.com/Drexubery/ViewCrafter)] [[project page](https://drexubery.github.io/ViewCrafter/)]
 <br>
