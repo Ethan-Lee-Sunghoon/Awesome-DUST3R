@@ -56,6 +56,7 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - Taming Video Diffusion Prior with Scene-Grounding Guidance for 3D Gaussian Splatting from Sparse Inputs (**CVPR 2025 Highlight**) [[paper](https://arxiv.org/abs/2503.05082)] [[code](https://github.com/zhongyingji/guidedvd-3dgs)] [[project page](https://zhongyingji.github.io/guidevd-3dgs/)]
 - MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos (**CVPR 2025 Oral**) [[paper](https://arxiv.org/abs/2412.04463)] [[code](https://github.com/mega-sam/mega-sam)] [[project page](https://mega-sam.github.io/)]
 - Continuous 3D Perception Model with Persistent State (CUT3R) (**CVPR 2025 Oral**) [[paper](https://arxiv.org/abs/2501.12387)] [[code](https://github.com/CUT3R/CUT3R)] [[project page](https://cut3r.github.io/)]
+- Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos (**CVPR 2025 Oral**) [[paper](https://arxiv.org/abs/2412.09621)] [[project page](https://stereo4d.github.io/)]
 - VGGT: Visual Geometry Grounded Transformer (**CVPR 2025 Best Paper Award**) [[paper](https://arxiv.org/abs/2503.11651)] [[code](https://github.com/facebookresearch/vggt)] [[project page](https://vgg-t.github.io/)]
 <br>
 
@@ -85,7 +86,6 @@ A curated list of awesome DUST3R/MAST3R related papers.
 - Mutli-View 3D Reconstruction using Knowledge Distillation (**arXiv 2024**) [[paper](https://arxiv.org/abs/2412.02039)]
 - 3D Reconstruction with Spatial Memory (**arXiv 2024**) [[paper](https://arxiv.org/abs/2408.16061)] [[code](https://github.com/HengyiWang/spann3r)] [[project page](https://hengyiwang.github.io/projects/spanner)]
 - Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving (**arXiv 2024**) [[paper](https://arxiv.org/abs/2412.06777)] [[code](https://github.com/Barrybarry-Smith/Driv3R)]
-- Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos (**arXiv 2024**) [[paper](https://arxiv.org/abs/2412.09621)] [[project page](https://stereo4d.github.io/)]
 - VI3DRM:Towards meticulous 3D Reconstruction from Sparse Views via Photo-Realistic Novel View Synthesis (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.08207)]
 - Can Generative Video Models Help Pose Estimation? (**arXiv 2024**) [[paper](https://arxiv.org/abs/2412.16155)] [[project page](https://inter-pose.github.io/)]
 - PhotoReg: Photometrically Registering 3D Gaussian Splatting Models (**arXiv 2024**) [[paper](https://arxiv.org/abs/2410.05044)] [[code](https://github.com/ziweny11/PhotoRegCodes)] [[project page](https://ziweny11.github.io/photoreg/)]
