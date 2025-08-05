@@ -77,6 +77,7 @@ A curated list of awesome DUST3R/MAST3R related papers.
 <br>
 
 - Alligat0R: Pre-Training Through Co-Visibility Segmentation for Relative Camera Pose Regression (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.07561)]
+- D^2USt3R: Enhancing 3D Reconstruction with 4D Pointmaps for Dynamic Scenes (**arXiv 2025**) [[paper](https://arxiv.org/abs/2504.06264v1)] [[code](https://github.com/cvlab-kaist/DDUSt3R)] [[project page](https://cvlab-kaist.github.io/DDUSt3R/)]
 <br>
  
 ### 2024
